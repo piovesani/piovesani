@@ -37,4 +37,4 @@ Atuo no desenvolvimento e manutenção de **APIs REST**, aplicando boas prática
 ---
 
 📫 Vamos conectar?  
-[LinkedIn](https://www.linkedin.com/in/renanpiovesani/) | [GitHub](https://github.com/renanpiovesani)
+[LinkedIn](https://www.linkedin.com/in/renanpiovesani/) | [GitHub](https://github.com/piovesani)
