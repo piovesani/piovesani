@@ -1,28 +1,40 @@
-# Olá! Eu sou o Renan Piovesani 🖐️
+# Olá! Eu sou o Renan Piovesani 👋
 
-[![Portfólio](https://img.shields.io/website?label=Meu%20Portf%C3%B3lio&style=for-the-badge&url=https://piovesani.dev.br/)](https://piovesani.dev.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renan%20Piovesani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanpiovesani/)
+[![GitHub](https://img.shields.io/badge/GitHub-Renan%20Piovesani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renanpiovesani)
 
+---
 
-## Tecnologias que eu uso no meu dia
+## 🚀 Tecnologias e Competências
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://piovesani.dev.br/assets/images/html5.svg" />
-  <img align="center" alt="css" src="https://piovesani.dev.br/assets/images/css3.svg" />
-  <img align="center" alt="js" src="https://piovesani.dev.br/assets/images/javascript.svg" />
-  <img align="center" alt="ts" src="https://piovesani.dev.br/assets/images/typescript.svg" />
-  <img align="center" alt="react" src="https://piovesani.dev.br/assets/images/react.svg" />
-  <img align="center" alt="mysql" src="https://piovesani.dev.br/assets/images/mysql.svg" />
-  <img align="center" alt="php" src="https://piovesani.dev.br/assets/images/php.svg" />
-  <img align="center" alt="nodejs" src="https://piovesani.dev.br/assets/images/node.svg" />
-  <img align="center" alt="nextjs" src="https://piovesani.dev.br/assets/images/next.svg" />
-  <img align="center" alt="linux" src="https://piovesani.dev.br/assets/images/linux.svg" />
-</div><br/>
+<div align="center">
+  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
+  <img alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" />
+  <img alt="ASP.NET Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-netcore/dot-netcore-original.svg" width="50" height="50" />
+  <img alt="WPF" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/WPF_logo.svg" width="50" height="50" />
+  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" />
+  <img alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
+  <img alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" />
+  <img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" />
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+</div>
 
-## Sobre mim
+---
 
-Sou um desenvolvedor web full stack com mais de 3 anos de experiência na criação de aplicações inovadoras e envolventes. Possuo formação em Tecnologia em Análise e Desenvolvimento de Sistemas e construí uma sólida carreira no desenvolvimento web, com foco em PHP, JavaScript e diversos frameworks, incluindo React JS, Next JS, Bootstrap e Tailwind.
+## 💼 Sobre mim
 
-Minha experiência em desenvolvimento web full stack abrange a criação de APIs para integração de sistemas e troca de dados eficiente. Ao longo dos anos, desenvolvi um conjunto de competências valiosas que me permitiram contribuir de forma significativa para projetos desafiadores e complexos.
+Sou **Desenvolvedor Full Stack** e **Analista de Sistemas**, formado em **Tecnologia em Análise e Desenvolvimento de Sistemas** e pós-graduado em **Arquitetura de Software e Soluções**. Com mais de 4 anos de experiência, especializo-me no desenvolvimento de software e sistemas web, utilizando tecnologias modernas e arquiteturas robustas para criar soluções de alto impacto.
 
+Minhas principais competências incluem **C# e .NET (7+)**, abrangendo projetos como **ASP.NET Core**, **WPF**, além de **PHP (7+)**, **Laravel (10+)**, **Python** e **JavaScript** (incluindo frameworks como **React**). Tenho vasta experiência com bancos de dados como **MySQL**, **Oracle** e **SQLite**, além de domínio avançado em **HTML**, **CSS** e **JavaScript**, o que me permite desenvolver interfaces responsivas e de alto desempenho.
 
+Atuo no desenvolvimento e manutenção de **APIs REST**, aplicando boas práticas de design, segurança e escalabilidade, com foco em arquiteturas modernas como **Clean Architecture**, **MVC**, **MVVM** e **MVP**. Minha abordagem é guiada pela inovação, eficiência e entrega de resultados.
 
+---
+
+📫 Vamos conectar?  
+[LinkedIn](https://www.linkedin.com/in/renanpiovesani/) | [GitHub](https://github.com/renanpiovesani)
